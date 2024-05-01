@@ -6,4 +6,3 @@ Add initial project structure and tech stack
 - Updated application.properties for database configuration
 - Defined relationships between entities
 - Documented tech stack in README.md
-- 
