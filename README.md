@@ -1,5 +1,4 @@
 Add initial project structure and tech stack
-
 - Created package structure for backend components
 - Added entity classes for FinancialAdvisor, Client, Portfolio, Category, and Security
 - Configured Spring Boot application with JPA for data persistence
